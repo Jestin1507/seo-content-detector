@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Large data/models (if any)
+# Note: We WILL commit the .pkl and .csv files for this assignment
+# but in a real project, you would add them here.

@@ -1,0 +1,18 @@
+# Core Data Science & ML
+pandas
+scikit-learn
+joblib
+
+# NLP & Text
+nltk
+textstat
+
+# Web Scraping & Parsing
+requests
+beautifulsoup4
+
+# Notebook
+jupyter
+
+# App Framework
+streamlit
